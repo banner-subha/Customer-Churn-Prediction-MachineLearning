@@ -27,7 +27,7 @@ The dataset used in this project is the [Telco Customer Churn dataset from Kaggl
   - Pandas, NumPy: Data manipulation and analysis.
   - Scikit-learn: Machine learning models and evaluation.
   - Matplotlib, Seaborn: Data visualization.
-  - XGBoost: Advanced machine learning model.
+  - Random Forest: Random Forest Classification 
 - **Environment**: Jupyter Notebook.
 
 ---
