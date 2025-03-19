@@ -20,6 +20,14 @@ The dataset used in this project is the [Telco Customer Churn dataset from Kaggl
 - Target variable: `Churn` (Yes/No).
 
 ---
+![newplot](https://github.com/user-attachments/assets/70ebae71-0201-404d-a705-11d3dfc69c59)
+![newp4lot](https://github.com/user-attachments/assets/8a9e819a-6c1d-4ff5-91f7-1dc8570690a7)
+![n2ewplot](https://github.com/user-attachments/assets/cde6a233-9dde-4a54-8ed4-19fdf910d255)
+![output](https://github.com/user-attachments/assets/0d6ea76e-fc7d-470d-a98a-8fc21bcfbd8b)
+![outpu4t](https://github.com/user-attachments/assets/dc08075a-ee21-478c-b51d-8c89e5febdef)
+![outpu2t](https://github.com/user-attachments/assets/ac883c44-b2f6-4639-b01f-8b7392dadb4c)
+![outp1ut](https://github.com/user-attachments/assets/4a3b7722-a2ea-4331-aa68-2ef9acf10dc3)
+![newplot2](https://github.com/user-attachments/assets/4421b37c-c12a-4979-a7bf-29c961f121ca)
 
 ## 🛠️ Tools and Technologies
 - **Programming Language**: Python
